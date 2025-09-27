@@ -8,7 +8,7 @@ In addition to his data expertise, Hasaan is an aspiring astronaut and astronaut
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 **Languages & Tools**  
 - **Python**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib, Astropy  
 - **SQL**: PostgreSQL, MySQL, IBM Db2  
@@ -23,7 +23,7 @@ In addition to his data expertise, Hasaan is an aspiring astronaut and astronaut
 - **Math**: Multivariable Calculus, Calculus with Proofs (Real Analysis), Ordinary Differential Equations 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasaanmohsin)  
 - 🌐 [Astronautics Website](https://hasaanmohsin.com)  
 - 📧 hasaanmohsinzain@gmail.com  
