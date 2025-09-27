@@ -10,11 +10,32 @@ In addition to his data expertise, Hasaan is an aspiring astronaut and astronaut
 
 ## 🛠️ Tech Stack  
 **Languages & Tools**  
-- **Python**: Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Astropy  
-- **SQL**: (PostgreSQL, MySQL, IBM Db2)  
+- **Python**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib, Astropy  
+- **SQL**: PostgreSQL, MySQL, IBM Db2  
 - **Data Visualization**: Tableau, Power BI, Matplotlib
 - **Cloud**: AWS, Azure, IBM Cloud  
-- **ETL & Data Engineering**: Apache Airflow, Kafka, Shell scripting  
+- **ETL & Data Engineering**: Apache Airflow, Kafka, Shell scripting
+
+---
+## Relevant Courses
+-Astrophysics research
+-Advanced Electromagnetic Theory
+Advanced Classical Mechanics
+Electronics Lab
+Thermal Physics
+Electricity and Magnetism
+Classical Mechanics
+Calculus with Proofs (Real Analysis)
+Multivariable Calculus
+Ordinary Differential Equations
+Stars and Planets
+Galaxies and Cosmology
+Practical Astronomy
+Astrophysics 1
+Practical Physics 1
+Practical Physics 2
+Dark Matter and Dark Energy
+Spanish for Advanced Speakers
 
 ---
 
