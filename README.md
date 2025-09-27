@@ -18,32 +18,9 @@ In addition to his data expertise, Hasaan is an aspiring astronaut and astronaut
 
 ---
 ## Relevant Courses
-- AWS Fundamentals - S3, Cloudtrail, Athena, Quicksight (Coursera)
-- Azure Fundamentals (Coursera)
-- Data Engineering with Apache Airflow and Kafka (Coursera)
-- IBM DB2 (Coursera)
-- Advanced SQL (Coursera)
-- Advanced Excel (Coursera)
-- Python Programming (University of Toronto)
-- Astrophysics research (University of Toronto)
-- Advanced Electromagnetic Theory (University of Toronto)
-- Advanced Classical Mechanics (University of Toronto)
-- Electronics Lab (University of Toronto)
-- Thermal Physics (University of Toronto)
-- Electricity and Magnetism (University of Toronto)
-- Classical Mechanics (University of Toronto)
-- Calculus with Proofs - Real Analysis (University of Toronto)
-- Multivariable Calculus (University of Toronto)
-- Ordinary Differential Equations (University of Toronto)
-- Stars and Planets (University of Toronto)
-- Galaxies and Cosmology (University of Toronto)
-- Practical Astronomy (University of Toronto)
-- Astrophysics 1 (University of Toronto)
-- Practical Physics 1 (University of Toronto)
-- Practical Physics 2 (University of Toronto)
-- Dark Matter and Dark Energy (University of Toronto)
-- Spanish for Advanced Speakers (University of Toronto)
-
+- **Physics**: Advanced Electromagnetic Theory, Advanced Classical Mechanics, Electronics Lab, Thermal Physics, Advanced Practical Physics
+- **Astronomy**: Astrophysics Research, Stars & Planets, Galaxies & Cosmology, Dark Matter & Dark Energy, Practical Astronomy, Advanced Astrophysics 
+- **Math**: Multivariable Calculus, Calculus with Proofs (Real Analysis), Ordinary Differential Equations 
 ---
 
 ## 📫 Let’s Connect  
