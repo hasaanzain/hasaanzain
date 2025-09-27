@@ -1,6 +1,6 @@
 # Hasaan Mohsin 
 
-**About Me**
+## About Me
 
 Hasaan Mohsin is an aspiring data scientist who recently graduated from the University of Toronto with an Honours Bachelor of Science in Physics and Astronomy, where he contributed to research in large-scale data modeling, exoplanet habitability, and statistical analysis. His technical expertise includes Python (NumPy, Pandas, SciPy, Matplotlib, Scikit-Learn), SQL (Advanced), R, cloud services(Microsoft Azure, IBM Cloud, AWS), and data visualization platforms such as Tableau/Power BI. He is also experienced in machine learning, data pipelines, and ETL processes.
 
