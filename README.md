@@ -35,15 +35,6 @@ In addition to AI and data science, Hasaan is an aspiring astronaut and astronau
 - **Engineering:** Docker, Git, CI/CD
 - **Visualization:** Tableau, AWS QuickSight, Streamlit, Matplotlib
 
----
-
-## Relevant Courses
-
-- **Physics:** Advanced Electromagnetic Theory, Advanced Classical Mechanics, Electronics Lab, Thermal Physics, Advanced Practical Physics
-- **Astronomy:** Astrophysics Research, Stars & Planets, Galaxies & Cosmology, Dark Matter & Dark Energy, Practical Astronomy, Advanced Astrophysics
-- **Math:** Multivariable Calculus, Calculus with Proofs (Real Analysis), Ordinary Differential Equations
-
----
 
 ## Let’s Connect
 
