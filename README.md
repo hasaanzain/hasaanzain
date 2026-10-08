@@ -7,6 +7,7 @@ Hasaan Mohsin is an **AI/LLM Engineer** who previously graduated from the Univer
 His recent work includes building multilingual AI applications for operational data, orchestrating agentic workflows for SQL generation and retrieval, developing Python/FastAPI backends with real-time Server-Sent Events, and optimizing retrieval and caching systems for production use. He has also built an enterprise RAG platform across more than 1,000 documents using LangGraph, LangChain, ChromaDB, OpenAI APIs, and vector embeddings, reducing query latency by **84%** and improving answer quality by **35%**.
 
 His technical background includes **Python, SQL, PyTorch, TensorFlow, Scikit-learn, LangGraph, LangChain, FastAPI, vector databases, embeddings, cloud platforms, Docker, and CI/CD**, with experience across model evaluation, semantic retrieval, prompt engineering, data preprocessing, feature engineering, and production AI application development.
+
 ---
 
 ## Tech Stack
